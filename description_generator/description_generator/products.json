@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Smart Bluetooth Speaker",
+    "category": "electronics",
+    "features": ["Bluetooth 5.0", "360° sound", "10-hour battery"],
+    "benefits": ["Rich audio quality", "Seamless wireless connectivity"],
+    "usp": "Compact design with premium sound",
+    "specs": {
+      "Battery Life": "10 hours",
+      "Weight": "500g",
+      "Bluetooth": "5.0"
+    },
+    "keywords": ["Bluetooth speaker", "wireless audio", "portable speaker"]
+  },
+  {
+    "name": "Men's Casual T-Shirt",
+    "category": "fashion",
+    "features": ["100% cotton", "breathable fabric", "modern fit"],
+    "benefits": ["All-day comfort", "Versatile casual style"],
+    "usp": "Durable fabric with stylish design",
+    "specs": {
+      "Material": "Cotton",
+      "Sizes": "S, M, L, XL",
+      "Colors": "Black, White, Navy"
+    },
+    "keywords": ["mens t-shirt", "casual wear", "cotton t-shirt"]
+  }
+]
